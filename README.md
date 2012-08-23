@@ -16,11 +16,13 @@ Currently Required Modules:
 INSTRUCTIONS
 ============
 
-1) Fill out the client_secrets.json file with the client key and client secret provided by Yahoo
+1) Go to developer.yahoo.com and create a project. It's a desktop project. Get the client key and client secret.
 
-2) Run the program from the terminal. Follow the instructions.
+2) Fill out the client_secrets.json file with the client key and client secret provided by Yahoo
 
-3) The program results in three text files and a database with the data parsed into it. 
+3) Run the program from the terminal. Follow the instructions.
+
+4) The program results in three text files and a database with the data parsed into it. 
 
 
 

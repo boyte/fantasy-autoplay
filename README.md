@@ -20,7 +20,7 @@ INSTRUCTIONS
 
 2) Fill out the client_secrets.json file with the client key and client secret provided by Yahoo
 
-3) Run the program from the terminal. Follow the instructions.
+3) Run y_main.py from the terminal. Follow the instructions.
 
 4) The program results in three text files and a database with the data parsed into it. 
 

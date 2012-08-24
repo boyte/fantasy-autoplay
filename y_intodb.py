@@ -22,8 +22,9 @@ def create_databases():
 		cur = con.cursor()
 		#create the databases
 		cur.execute('CREATE IF NOT EXISTS my_roster("ID","Player","Position","Starting")')
-		con.commit()
-		
+		cur.execute('CREATE IF NOT EXISTS standings("Key","Team","Manager","Standing","Wins","Losses","Ties","Games Back")')
+		con.commit()	
+	
 if __name__ == '__main__':
 	main()
 

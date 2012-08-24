@@ -13,7 +13,6 @@ import json
 import sqlite3 as lite
 from urlparse import parse_qs
 import time
-from bs4 import BeautifulSoup
 from oauth_hook.hook import OAuthHook
 
 auth_file = 'client_secrets.json'

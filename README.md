@@ -10,7 +10,7 @@ The current functionality pulls down standings, roster and roster stats from Yah
 
 Currently Required Modules:
 - requests (https://github.com/kennethreitz/requests)
-- request-oauth (https://github.com/maraujop/requests-oauth)
+- requests-oauth (https://github.com/maraujop/requests-oauth)
 - beautifulsoup (http://www.crummy.com/software/BeautifulSoup/)
 
 INSTRUCTIONS

@@ -4,7 +4,6 @@
 y_main.py
 
 Created by Cody Boyte on 2012-08-22.
-Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 """
 
 import sys
@@ -22,7 +21,7 @@ def main():
 		print "starting parsing"
 		y_parse.main()
 		print "pushing data into database"
-		y_intodb()
+		y_intodb.main()
 	except:
 		print "problems with program"
 		raise
